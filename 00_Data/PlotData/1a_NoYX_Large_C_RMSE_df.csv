@@ -1,0 +1,337 @@
+"model_lab","time","Scenario","ScenarioSubtitle","Scenario_plain","RMSE"
+"True Model",2,"Scenario~0","No~Confounding","Scenario 0",0
+"True Model",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0
+"True Model",2,"Scenario~2","Step","Scenario 2",0
+"True Model",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0
+"True Model",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0
+"True Model",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0
+"True Model",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0
+"True Model",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0
+"True Model",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0
+"True Model",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0
+"True Model",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0
+"True Model",2,"Scenario~6","Chaotic~Effects","Scenario 6",0
+"True Model",3,"Scenario~0","No~Confounding","Scenario 0",0
+"True Model",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0
+"True Model",3,"Scenario~2","Step","Scenario 2",0
+"True Model",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0
+"True Model",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0
+"True Model",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0
+"True Model",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0
+"True Model",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0
+"True Model",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0
+"True Model",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0
+"True Model",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0
+"True Model",3,"Scenario~6","Chaotic~Effects","Scenario 6",0
+"True Model",4,"Scenario~0","No~Confounding","Scenario 0",0
+"True Model",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0
+"True Model",4,"Scenario~2","Step","Scenario 2",0
+"True Model",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0
+"True Model",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0
+"True Model",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0
+"True Model",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0
+"True Model",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0
+"True Model",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0
+"True Model",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0
+"True Model",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0
+"True Model",4,"Scenario~6","Chaotic~Effects","Scenario 6",0
+"True Model",5,"Scenario~0","No~Confounding","Scenario 0",0
+"True Model",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0
+"True Model",5,"Scenario~2","Step","Scenario 2",0
+"True Model",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0
+"True Model",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",0
+"True Model",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0
+"True Model",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0
+"True Model",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0
+"True Model",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0
+"True Model",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0
+"True Model",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0
+"True Model",5,"Scenario~6","Chaotic~Effects","Scenario 6",0
+"CLPM",2,"Scenario~0","No~Confounding","Scenario 0",6.55617782285844e-11
+"CLPM",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0589063321349362
+"CLPM",2,"Scenario~2","Step","Scenario 2",0.0589066841653986
+"CLPM",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0530156989678388
+"CLPM",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0578754712321788
+"CLPM",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0589063339009541
+"CLPM",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0589063591992829
+"CLPM",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0603820130376385
+"CLPM",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0563357846650788
+"CLPM",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0591645506710336
+"CLPM",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0584564869894867
+"CLPM",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.0833311858071572
+"CLPM",3,"Scenario~0","No~Confounding","Scenario 0",6.65130034382955e-11
+"CLPM",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0589063322168272
+"CLPM",3,"Scenario~2","Step","Scenario 2",0.0471250657458419
+"CLPM",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0.021579918868112
+"CLPM",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0598655713645287
+"CLPM",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.061857693881251
+"CLPM",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0640474457413354
+"CLPM",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0492220909237705
+"CLPM",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0547540822415881
+"CLPM",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0589985112913643
+"CLPM",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0603318766248783
+"CLPM",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.0702604318507149
+"CLPM",4,"Scenario~0","No~Confounding","Scenario 0",1.30915417395627e-11
+"CLPM",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0589063321806985
+"CLPM",4,"Scenario~2","Step","Scenario 2",0.0144341184980064
+"CLPM",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0.00948815462576089
+"CLPM",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0564183633945307
+"CLPM",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0305709029669477
+"CLPM",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.063688482336057
+"CLPM",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0380367289592095
+"CLPM",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0566525629068266
+"CLPM",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0593059338986053
+"CLPM",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0569373655176217
+"CLPM",4,"Scenario~6","Chaotic~Effects","Scenario 6",0.0564215968494609
+"CLPM",5,"Scenario~0","No~Confounding","Scenario 0",7.95839921741148e-11
+"CLPM",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0589063323263447
+"CLPM",5,"Scenario~2","Step","Scenario 2",0.0297612067359689
+"CLPM",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0338801945611196
+"CLPM",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0606965218856611
+"CLPM",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.02298954119246
+"CLPM",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0644392567424167
+"CLPM",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.029853620348633
+"CLPM",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0623287453514048
+"CLPM",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0582595310122256
+"CLPM",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0620391457816711
+"CLPM",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.0575335352738817
+"CLPM lag 2",2,"Scenario~0","No~Confounding","Scenario 0",6.38874925185107e-11
+"CLPM lag 2",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0589063300612896
+"CLPM lag 2",2,"Scenario~2","Step","Scenario 2",0.0589063313636359
+"CLPM lag 2",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0530156989639251
+"CLPM lag 2",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0578754713677951
+"CLPM lag 2",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0589063712878414
+"CLPM lag 2",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0589063321410242
+"CLPM lag 2",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0603820130309785
+"CLPM lag 2",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0563357882179483
+"CLPM lag 2",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0591645763227734
+"CLPM lag 2",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0584564869932644
+"CLPM lag 2",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.0833310124845024
+"CLPM lag 2",3,"Scenario~0","No~Confounding","Scenario 0",1.92284128897047e-09
+"CLPM lag 2",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0148745020750344
+"CLPM lag 2",3,"Scenario~2","Step","Scenario 2",0.0118995978202101
+"CLPM lag 2",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0.000976726655499804
+"CLPM lag 2",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0170621751384331
+"CLPM lag 2",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0183820277013177
+"CLPM lag 2",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0178457818201549
+"CLPM lag 2",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0141084702196412
+"CLPM lag 2",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0122145423352451
+"CLPM lag 2",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0163411185260328
+"CLPM lag 2",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0160065121925724
+"CLPM lag 2",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.0304427795187911
+"CLPM lag 2",4,"Scenario~0","No~Confounding","Scenario 0",1.30649978336006e-09
+"CLPM lag 2",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0148744957900878
+"CLPM lag 2",4,"Scenario~2","Step","Scenario 2",0.0115007373035823
+"CLPM lag 2",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0135645928221459
+"CLPM lag 2",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0103712877085502
+"CLPM lag 2",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00854092303012581
+"CLPM lag 2",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.021089897415431
+"CLPM lag 2",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0106732767423447
+"CLPM lag 2",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0142751166451499
+"CLPM lag 2",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0123926891976854
+"CLPM lag 2",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0127909190836528
+"CLPM lag 2",4,"Scenario~6","Chaotic~Effects","Scenario 6",1.98020098973739e-06
+"CLPM lag 2",5,"Scenario~0","No~Confounding","Scenario 0",4.74106448544731e-10
+"CLPM lag 2",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",0.0148744985162045
+"CLPM lag 2",5,"Scenario~2","Step","Scenario 2",0.0334047215427755
+"CLPM lag 2",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0299649578450376
+"CLPM lag 2",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0190459843414245
+"CLPM lag 2",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00177840212873018
+"CLPM lag 2",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0187310895998252
+"CLPM lag 2",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.00716348164190182
+"CLPM lag 2",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0178681123162366
+"CLPM lag 2",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.0182152958235279
+"CLPM lag 2",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.0173079154213309
+"CLPM lag 2",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.00347045014132316
+"DPM",2,"Scenario~0","No~Confounding","Scenario 0",3.30905701451112e-09
+"DPM",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",5.31473200171551e-09
+"DPM",2,"Scenario~2","Step","Scenario 2",0.0148478487429306
+"DPM",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0173038480415306
+"DPM",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00223823881952344
+"DPM",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00320236720012809
+"DPM",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00175185264335008
+"DPM",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.00425820146992796
+"DPM",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00599439756481285
+"DPM",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000911639739523115
+"DPM",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000795045146378029
+"DPM",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.0121662109264994
+"DPM",3,"Scenario~0","No~Confounding","Scenario 0",8.96987019383122e-09
+"DPM",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",5.29256019565771e-09
+"DPM",3,"Scenario~2","Step","Scenario 2",0.00458247697856409
+"DPM",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0131054152214214
+"DPM",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.000315498860041438
+"DPM",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00801011749084329
+"DPM",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00424516655620702
+"DPM",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0070975478845353
+"DPM",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00251085502684431
+"DPM",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000360654066937569
+"DPM",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",8.03472929314514e-05
+"DPM",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.00536406695951895
+"DPM",4,"Scenario~0","No~Confounding","Scenario 0",1.1384614292953e-08
+"DPM",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",5.22731137542198e-09
+"DPM",4,"Scenario~2","Step","Scenario 2",0.0026929756316544
+"DPM",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0.00837965658963524
+"DPM",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00426711156380066
+"DPM",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00897023761496515
+"DPM",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00712093900547764
+"DPM",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0107675174269545
+"DPM",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00293220395351532
+"DPM",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00113771802203676
+"DPM",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.00173964260649109
+"DPM",4,"Scenario~6","Chaotic~Effects","Scenario 6",0.0195291851762672
+"DPM",5,"Scenario~0","No~Confounding","Scenario 0",1.13624538111701e-08
+"DPM",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",1.43659042994848e-09
+"DPM",5,"Scenario~2","Step","Scenario 2",0.00199086412119742
+"DPM",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0104938818277734
+"DPM",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00190636720646752
+"DPM",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00901879623605
+"DPM",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00824720839284936
+"DPM",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0179335016888208
+"DPM",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00861917553483342
+"DPM",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000390669338997479
+"DPM",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000859437181902428
+"DPM",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.0169012695540782
+"DPM-free",2,"Scenario~0","No~Confounding","Scenario 0",0.00187965693768993
+"DPM-free",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",6.48914180723104e-09
+"DPM-free",2,"Scenario~2","Step","Scenario 2",2.86587172049213e-09
+"DPM-free",2,"Scenario~3*italic('A')","Linear","Scenario 3A",3.5784268048733e-09
+"DPM-free",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",9.05873431822357e-11
+"DPM-free",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00257636832704421
+"DPM-free",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00756368961066672
+"DPM-free",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.000803099303811589
+"DPM-free",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00626839072292353
+"DPM-free",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00197999042426378
+"DPM-free",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000248037626716005
+"DPM-free",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.00101143565564642
+"DPM-free",3,"Scenario~0","No~Confounding","Scenario 0",0.0131908677602171
+"DPM-free",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",1.66045610594523e-09
+"DPM-free",3,"Scenario~2","Step","Scenario 2",1.77937029000041e-09
+"DPM-free",3,"Scenario~3*italic('A')","Linear","Scenario 3A",2.30805827228231e-09
+"DPM-free",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",8.35556068778942e-11
+"DPM-free",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00715760815902075
+"DPM-free",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00360024269785116
+"DPM-free",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",8.36217792135607e-07
+"DPM-free",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00789166698083427
+"DPM-free",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000390283871540512
+"DPM-free",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000557298932161665
+"DPM-free",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.0324821661931641
+"DPM-free",4,"Scenario~0","No~Confounding","Scenario 0",1.39498740059363e-08
+"DPM-free",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",3.07690610490408e-09
+"DPM-free",4,"Scenario~2","Step","Scenario 2",1.47630227487205e-09
+"DPM-free",4,"Scenario~3*italic('A')","Linear","Scenario 3A",1.28527832821135e-09
+"DPM-free",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",8.84176801219105e-10
+"DPM-free",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00875641565113347
+"DPM-free",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00363308783458986
+"DPM-free",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.00668748529794888
+"DPM-free",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0102028793390121
+"DPM-free",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00254180857209471
+"DPM-free",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.00187580790225286
+"DPM-free",4,"Scenario~6","Chaotic~Effects","Scenario 6",0.0157937684757897
+"DPM-free",5,"Scenario~0","No~Confounding","Scenario 0",6.39348739228662e-09
+"DPM-free",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",2.44933921755841e-09
+"DPM-free",5,"Scenario~2","Step","Scenario 2",1.33271313429439e-09
+"DPM-free",5,"Scenario~3*italic('A')","Linear","Scenario 3A",2.44985652597673e-09
+"DPM-free",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",7.14620468356131e-09
+"DPM-free",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00900427102708296
+"DPM-free",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00340778808820415
+"DPM-free",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0173415379779308
+"DPM-free",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0141158926714905
+"DPM-free",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00169355991449457
+"DPM-free",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000197886180443044
+"DPM-free",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.00556722947947556
+"RICLPM",2,"Scenario~0","No~Confounding","Scenario 0",7.05722648375318e-09
+"RICLPM",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",7.54287646231866e-10
+"RICLPM",2,"Scenario~2","Step","Scenario 2",0.0576544800484799
+"RICLPM",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0636564521377508
+"RICLPM",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.000655916905155957
+"RICLPM",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0245681419838109
+"RICLPM",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00301964730572292
+"RICLPM",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0255687952991933
+"RICLPM",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.01419524787696
+"RICLPM",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00215152635611134
+"RICLPM",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000208171055584516
+"RICLPM",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.0259761106000117
+"RICLPM",3,"Scenario~0","No~Confounding","Scenario 0",6.38381214557171e-09
+"RICLPM",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",1.76319182865203e-09
+"RICLPM",3,"Scenario~2","Step","Scenario 2",0.0254701079325591
+"RICLPM",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0609516584716115
+"RICLPM",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.000746141866383873
+"RICLPM",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.014528770709112
+"RICLPM",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0044967592934248
+"RICLPM",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0168482405763551
+"RICLPM",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00761764037807933
+"RICLPM",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000903813473086656
+"RICLPM",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.00068174209479277
+"RICLPM",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.0173371663772836
+"RICLPM",4,"Scenario~0","No~Confounding","Scenario 0",3.11479453340979e-11
+"RICLPM",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",1.57064156125486e-09
+"RICLPM",4,"Scenario~2","Step","Scenario 2",0.00557965467492726
+"RICLPM",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0.00091426915511153
+"RICLPM",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.0030144850835981
+"RICLPM",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0143667053977271
+"RICLPM",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00497525070592614
+"RICLPM",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0194412538480828
+"RICLPM",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0165167164048073
+"RICLPM",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000410220941348266
+"RICLPM",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.00179662714715977
+"RICLPM",4,"Scenario~6","Chaotic~Effects","Scenario 6",0.0104000061398327
+"RICLPM",5,"Scenario~0","No~Confounding","Scenario 0",2.99938274217482e-09
+"RICLPM",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",1.05555886253939e-09
+"RICLPM",5,"Scenario~2","Step","Scenario 2",0.018615152568183
+"RICLPM",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0312143443588737
+"RICLPM",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",2.96507779717486e-05
+"RICLPM",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.0122854488309382
+"RICLPM",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0136678350721874
+"RICLPM",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.02495355583261
+"RICLPM",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00339321960072113
+"RICLPM",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.00163650531695687
+"RICLPM",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000626939364507653
+"RICLPM",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.0345971005744044
+"RICLPM-free",2,"Scenario~0","No~Confounding","Scenario 0",0.137195274719187
+"RICLPM-free",2,"Scenario~1","Stable~Confounder~Effects","Scenario 1",7.51306294954901e-10
+"RICLPM-free",2,"Scenario~2","Step","Scenario 2",0.0300019552102348
+"RICLPM-free",2,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0299465649699187
+"RICLPM-free",2,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00587924000490044
+"RICLPM-free",2,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00529788980510665
+"RICLPM-free",2,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00161480654588173
+"RICLPM-free",2,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.000405816199881934
+"RICLPM-free",2,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0128438159275643
+"RICLPM-free",2,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",8.89667062128063e-05
+"RICLPM-free",2,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000381713949115389
+"RICLPM-free",2,"Scenario~6","Chaotic~Effects","Scenario 6",0.0530199532591889
+"RICLPM-free",3,"Scenario~0","No~Confounding","Scenario 0",0.077272207953127
+"RICLPM-free",3,"Scenario~1","Stable~Confounder~Effects","Scenario 1",3.821582730823e-09
+"RICLPM-free",3,"Scenario~2","Step","Scenario 2",0.00715201584179036
+"RICLPM-free",3,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0134586952035512
+"RICLPM-free",3,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00257496321169869
+"RICLPM-free",3,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00135617873708746
+"RICLPM-free",3,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.00182417148825292
+"RICLPM-free",3,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.00291520179492556
+"RICLPM-free",3,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00125794796095532
+"RICLPM-free",3,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000473139333476799
+"RICLPM-free",3,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000624485765232663
+"RICLPM-free",3,"Scenario~6","Chaotic~Effects","Scenario 6",0.0221509804683856
+"RICLPM-free",4,"Scenario~0","No~Confounding","Scenario 0",6.93851551214486e-09
+"RICLPM-free",4,"Scenario~1","Stable~Confounder~Effects","Scenario 1",6.58090383576226e-09
+"RICLPM-free",4,"Scenario~2","Step","Scenario 2",0.0232838226524407
+"RICLPM-free",4,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0244977563148502
+"RICLPM-free",4,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00421199898779237
+"RICLPM-free",4,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00441557080089407
+"RICLPM-free",4,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0109950813134795
+"RICLPM-free",4,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.00850135775171081
+"RICLPM-free",4,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.0120901316356009
+"RICLPM-free",4,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000402471430767451
+"RICLPM-free",4,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.00128521302122965
+"RICLPM-free",4,"Scenario~6","Chaotic~Effects","Scenario 6",0.0324575783205595
+"RICLPM-free",5,"Scenario~0","No~Confounding","Scenario 0",7.80189052251856e-10
+"RICLPM-free",5,"Scenario~1","Stable~Confounder~Effects","Scenario 1",6.4057009835361e-09
+"RICLPM-free",5,"Scenario~2","Step","Scenario 2",0.027832665078271
+"RICLPM-free",5,"Scenario~3*italic('A')","Linear","Scenario 3A",0.0362853142501979
+"RICLPM-free",5,"Scenario~3*italic('B')","Proportional","Scenario 3B",0.00528196764886218
+"RICLPM-free",5,"Scenario~4*italic('A')","Part-Step","Scenario 4A",0.00431530685166504
+"RICLPM-free",5,"Scenario~4*italic('B')","Part-Step~Opposite","Scenario 4B",0.0199588796982633
+"RICLPM-free",5,"Scenario~5*italic('A')","Part-Linear","Scenario 5A",0.0175664477719476
+"RICLPM-free",5,"Scenario~5*italic('B')","Part-Linear~Opposite","Scenario 5B",0.00689089736739623
+"RICLPM-free",5,"Scenario~5*italic('C')","Part-Proportional","Scenario 5C",0.000482889570857958
+"RICLPM-free",5,"Scenario~5*italic('D')","Part-Proportional~Opposite","Scenario 5D",0.000718083707362649
+"RICLPM-free",5,"Scenario~6","Chaotic~Effects","Scenario 6",0.0396212177329034
