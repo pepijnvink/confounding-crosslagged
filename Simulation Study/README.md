@@ -14,6 +14,7 @@ Open a terminal in the current directory. Then run `bash run_all.sh` in the term
 | `figures` | After running the script, contains figures for each of the three studies.
 | `Functions` | Contains functions necessary for simulation and analysis
 | `output` | After running the script, contains simulated data, analyzed models, and results.
+| `Models` | Lavvan code for models to analyze simulated data with.
 | `params` | Contains parameter settings for each study.
 | `scripts` | Contains the scripts to run.
 
